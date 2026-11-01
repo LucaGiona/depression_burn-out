@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Depression-Quiz</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="css/fonts.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+    <div class="app">
+        <header class="app-header">
+            <div>
+                <div class="eyebrow" id="topicTitle">Prototyp</div>
+                <h1 class="app-title">Depression-Quiz</h1>
+            </div>
+            <div class="score" id="scoreBoard" aria-live="polite">
+                <div class="stat">
+                    <b class="stat-value" id="scorePoints">0</b>
+                    <span class="stat-label">Punkte</span>
+                </div>
+                <div class="stat stat--combo" id="scoreComboBox">
+                    <b class="stat-value" id="scoreCombo">×1</b>
+                    <span class="stat-label">Combo</span>
+                </div>
+                <div class="stat">
+                    <b class="stat-value" id="scoreStreak">0</b>
+                    <span class="stat-label">Serie</span>
+                </div>
+                <div class="stat">
+                    <b class="stat-value" id="scoreHighscore">0</b>
+                    <span class="stat-label">Rekord</span>
+                </div>
+            </div>
+        </header>
+
+        <p class="app-error" id="appError" hidden></p>
+
+        <nav class="mode-tabs" role="tablist" aria-label="Spielmodi">
+            <button class="mode-tab" type="button" role="tab" id="tabMc" data-mode="mc" aria-controls="panelMc" aria-selected="true">Multiple Choice</button>
+            <button class="mode-tab" type="button" role="tab" id="tabSlot" data-mode="slot" aria-controls="panelSlot" aria-selected="false">Walze</button>
+            <button class="mode-tab" type="button" role="tab" id="tabCloze" data-mode="cloze" aria-controls="panelCloze" aria-selected="false">Lückentext</button>
+            <button class="mode-tab" type="button" role="tab" id="tabImages" data-mode="images" aria-controls="panelImages" aria-selected="false">Bilder</button>
+            <button class="mode-tab" type="button" role="tab" id="tabGlossary" data-mode="glossary" aria-controls="panelGlossary" aria-selected="false">Glossar</button>
+            <button class="mode-tab" type="button" role="tab" id="tabDocs" data-mode="docs" aria-controls="panelDocs" aria-selected="false">Lernhefte</button>
+        </nav>
+
+        <!-- Modus: Multiple Choice -->
+        <section class="mode-panel" id="panelMc" role="tabpanel" aria-labelledby="tabMc">
+            <div class="round-size" id="mcRoundSize"></div>
+            <p class="lead">Eine Antwort ist richtig. Nach jeder Antwort gibt es eine Erklärung und den Weg ins Glossar oder Lernheft. Tasten 1–4 zum Antworten, Enter für weiter.</p>
+            <div class="chips" id="mcFilter" aria-label="Themen"></div>
+            <div class="quiz-card" id="mcStage" aria-live="polite"></div>
+        </section>
+
+        <!-- Modus: Walze -->
+        <section class="mode-panel" id="panelSlot" role="tabpanel" aria-labelledby="tabSlot" hidden>
+            <p class="lead">Die Walze stoppt auf einem Begriff, danach ordnest du ihn zu. Welcher Begriff kommt, legt die Quiz-Engine vorher fest. Die Animation ist nur Darstellung.</p>
+            <div class="chips" id="slotFilter" aria-label="Themen"></div>
+            <div class="cabinet">
+                <div class="cabinet-head">
+                    <h2 class="cabinet-title">Stimmungsautomat</h2>
+                    <small class="cabinet-round" id="slotRound">Runde 0</small>
+                </div>
+                <div class="reel-window" aria-hidden="true">
+                    <div class="reel-strip" id="slotStrip"></div>
+                    <div class="reel-marker"></div>
+                </div>
+                <button class="lever" type="button" id="slotLever" aria-label="Walze drehen">
+                    <span class="lever-shaft"><span class="lever-knob"></span></span>
+                    <span class="lever-label">Ziehen</span>
+                </button>
+            </div>
+            <div class="question" id="slotQuestion" aria-live="polite">
+                <p class="idle-hint">Hebel ziehen oder Leertaste drücken.</p>
+            </div>
+            <div class="actions">
+                <button class="btn" type="button" id="slotSpinBtn">Walze drehen</button>
+            </div>
+            <details class="json-peek">
+                <summary class="json-peek-summary">So sieht dieses Item im JSON aus</summary>
+                <pre class="json-peek-code" id="slotJsonPeek">Noch kein Item gezogen.</pre>
+            </details>
+        </section>
+
+        <!-- Modus: Lückentext -->
+        <section class="mode-panel" id="panelCloze" role="tabpanel" aria-labelledby="tabCloze" hidden>
+            <p class="lead">Sätze aus dem Unterricht und den Lernheften mit Lücken. Wähle die Schwierigkeit: Wörter antippen, aus einer Liste wählen oder selbst schreiben.</p>
+            <div class="cloze-bar">
+                <div class="segmented" id="clozeModes" role="group" aria-label="Schwierigkeit"></div>
+                <div class="cloze-progress">
+                    <span id="clozePos">0 / 0</span>
+                    <div class="cloze-track"><i class="cloze-fill" id="clozeFill"></i></div>
+                </div>
+            </div>
+            <div class="chips" id="clozeFilter" aria-label="Themen"></div>
+            <div id="clozeStage"></div>
+        </section>
+
+        <!-- Modus: Bilder -->
+        <section class="mode-panel" id="panelImages" role="tabpanel" aria-labelledby="tabImages" hidden>
+            <div class="round-size" id="imgRoundSize"></div>
+            <p class="lead">Neuron, Synapse und Gehirn, Symptome, Verlauf und Wirklatenz, Freudenberger-Phasen, Stadien der Suizidalität und Ablauf der Unterbringung – was zeigt das Bild? Alle Abbildungen sind eigene schematische Zeichnungen.</p>
+            <div class="chips" id="imgFilter" aria-label="Themen"></div>
+            <div class="quiz-card" id="imgStage" aria-live="polite"></div>
+        </section>
+
+        <!-- Glossar -->
+        <section class="mode-panel" id="panelGlossary" role="tabpanel" aria-labelledby="tabGlossary" hidden>
+            <p class="lead">Fachbegriffe aus den fünf Lernheften mit deutscher Bedeutung und kurzer Erklärung. Suche nach Fachwort, deutschem Begriff oder Stichwort.</p>
+            <div class="glossary-tools">
+                <label class="glossary-search-label" for="glossarySearch">Begriff suchen</label>
+                <input class="glossary-search" type="search" id="glossarySearch" placeholder="z. B. Synapse, Anhedonie, PsychKG …" autocomplete="off" />
+                <div class="chips" id="glossaryTopics" aria-label="Themen"></div>
+                <nav class="glossary-letters" id="glossaryLetters" aria-label="Alphabet"></nav>
+                <p class="glossary-count" id="glossaryCount" aria-live="polite"></p>
+            </div>
+            <div class="glossary-list" id="glossaryList"></div>
+        </section>
+
+        <!-- Lernhefte -->
+        <section class="mode-panel" id="panelDocs" role="tabpanel" aria-labelledby="tabDocs" hidden>
+            <p class="lead">Die Lernhefte, aus denen die Fragen stammen. Sie öffnen sich als PDF in einem neuen Tab.</p>
+            <div class="doc-list" id="docList"></div>
+        </section>
+
+        <footer class="app-footer">Prototyp. Inhalte vor dem Einsatz fachlich prüfen lassen. Abbildungen sind eigene Schemata. Quelle: Lernhefte zu CE 11.3 „Ausweglos?“.</footer>
+    </div>
+    <script type="module" src="js/main.js" defer></script>
+</body>
+</html>
