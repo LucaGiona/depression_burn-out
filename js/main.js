@@ -9,6 +9,7 @@ import { initCloze } from "./modes/cloze.js";
 import { initImageQuiz } from "./modes/image-quiz.js";
 import { initGlossary } from "./glossary.js";
 import { initDocuments } from "./documents.js";
+import { createPdfViewer } from "./pdf-viewer.js";
 
 const TOPIC_ID = "depression";
 
@@ -83,7 +84,7 @@ function showError(message) {
     dom.appError.hidden = false;
 }
 
-function createLinks(topic, glossaryApi) {
+function createLinks(topic, glossaryApi, pdfViewer) {
     const documents = new Map((topic.documents ?? []).map(doc => [doc.id, doc]));
     return {
         hasGlossaryTerm: term => Boolean(glossaryApi?.hasTerm(term)),
@@ -94,6 +95,7 @@ function createLinks(topic, glossaryApi) {
             glossaryApi.focusTerm(term);
         },
         getDocument: id => documents.get(id) ?? null,
+        openDocument: (doc, options) => pdfViewer.open(doc, options),
     };
 }
 
@@ -123,7 +125,7 @@ async function start() {
     const links = createLinks(state.topic, {
         hasTerm: term => glossaryApi?.hasTerm(term) ?? false,
         focusTerm: term => glossaryApi?.focusTerm(term),
-    });
+    }, createPdfViewer());
 
     availableModes.forEach(modeId => {
         const api = MODES[modeId].init({ topic: state.topic, engine, links });

@@ -2,6 +2,17 @@ import { createElement } from "./utils.js";
 
 // Verweise nach einer Antwort: „Im Glossar“ und „Im Lernheft nachlesen“.
 // `links` kommt aus main.js, damit die Modi die Tabs nicht selbst kennen müssen.
+// Wörter, die im Lernheft markiert werden: richtige Antwort, Lückenwörter oder Begriff
+function answerPhrases(item) {
+    if (Array.isArray(item.options) && Number.isInteger(item.answerIndex)) {
+        return [item.options[item.answerIndex]];
+    }
+    if (item.gaps?.length) {
+        return item.gaps.map(gap => gap.answers?.[0] ?? "");
+    }
+    return item.term ? [item.term] : [];
+}
+
 export function createLearnLinks(item, links) {
     const box = createElement("div", "learn-links");
 
@@ -20,8 +31,10 @@ export function createLearnLinks(item, links) {
         const anchor = createElement("a", "learn-link learn-link--doc", label);
         // #page=N: Der PDF-Viewer des Browsers öffnet direkt die Seite mit der Antwort.
         anchor.href = page ? `${doc.file}#page=${page}` : doc.file;
-        anchor.target = "_blank";
-        anchor.rel = "noopener";
+        anchor.addEventListener("click", event => {
+            event.preventDefault();
+            links.openDocument(doc, { page: page ?? 1, highlight: answerPhrases(item) });
+        });
         box.append(anchor);
     }
 

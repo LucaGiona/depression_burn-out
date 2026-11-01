@@ -2,7 +2,7 @@ import * as dom from "./dom.js";
 import { createElement } from "./utils.js";
 
 // Liste der Lernhefte (PDF) – ohne Punkte, nur zum Nachlesen
-export function initDocuments({ topic }) {
+export function initDocuments({ topic, links }) {
     dom.docList.replaceChildren(...topic.documents.map(doc => {
         const card = createElement("article", "doc-card");
         const icon = createElement("span", "doc-icon", "PDF");
@@ -15,8 +15,10 @@ export function initDocuments({ topic }) {
         );
         const link = createElement("a", "btn btn--ghost doc-open", "Öffnen");
         link.href = doc.file;
-        link.target = "_blank";
-        link.rel = "noopener";
+        link.addEventListener("click", event => {
+            event.preventDefault();
+            links.openDocument(doc, { closeLabel: "← Schließen" });
+        });
         card.append(icon, body, link);
         return card;
     }));

@@ -111,3 +111,22 @@ Antwort steht. Der Link „Nachlesen“ öffnet das PDF mit `#page=N` direkt dor
 - Stand vorher: `data/depression.vor-seitenzahlen.json.bak`.
 
 Übertragen: `tools/seitenzahlen.py` (Datenpfad anpassen) und `js/learn-links.js` kopieren.
+
+### Lernheft-Viewer statt neuem Tab (01.11.2026)
+
+„Nachlesen“ und „Öffnen“ (Tab Lernhefte) öffnen das Lernheft jetzt in einem Fenster über der App –
+auf dem Handy bildschirmfüllend. Es springt auf `source.page` und markiert dort gelb die Wörter der
+richtigen Antwort. „← Zurück zur Frage“, Esc oder die Zurück-Taste des Handys schließen es; die
+Frage bleibt erhalten. „Als PDF öffnen“ (Desktop) bleibt als Ausweg.
+
+- **Bibliothek:** PDF.js 4.10.38 (legacy build, Apache-2.0) lokal in `vendor/pdfjs/` – bewusste
+  Ausnahme von „keine externen Abhängigkeiten“, weil Android-Chrome PDFs nicht selbst anzeigt.
+  Wird erst beim ersten Öffnen geladen (ca. 1,8 MB).
+- `index.html`: `<dialog id="pdfViewer">`
+- `js/pdf-viewer.js`: Viewer (Seiten lazy rendern, Textebene, Markierung, Seitenanzeige)
+- `js/learn-links.js`, `js/documents.js`: öffnen den Viewer über `links.openDocument(...)`
+- `js/main.js`: `createPdfViewer()`, `links.openDocument`; `js/dom.js`: Referenzen `pdfViewer…`
+- `css/styles.css`: Abschnitt „Lernheft-Viewer (PDF.js)“
+
+Übertragen: `vendor/` und die genannten Dateien kopieren. Funktioniert nur über Webserver
+(Live Server, Netlify), nicht per Doppelklick.

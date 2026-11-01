@@ -54,5 +54,16 @@ export const glossaryList = document.querySelector("#glossaryList");
 // Rücksprung aus dem Glossar
 export const backToQuiz = document.querySelector("#backToQuiz");
 
+// Lernheft-Viewer
+export const pdfViewer = document.querySelector("#pdfViewer");
+export const pdfViewerClose = document.querySelector("#pdfViewerClose");
+export const pdfViewerTitle = document.querySelector("#pdfViewerTitle");
+export const pdfViewerPrev = document.querySelector("#pdfViewerPrev");
+export const pdfViewerNext = document.querySelector("#pdfViewerNext");
+export const pdfViewerPage = document.querySelector("#pdfViewerPage");
+export const pdfViewerFallback = document.querySelector("#pdfViewerFallback");
+export const pdfViewerStatus = document.querySelector("#pdfViewerStatus");
+export const pdfViewerPages = document.querySelector("#pdfViewerPages");
+
 // Lernhefte
 export const docList = document.querySelector("#docList");

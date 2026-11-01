@@ -128,6 +128,22 @@
         <footer class="app-footer">Prototyp. Inhalte vor dem Einsatz fachlich prüfen lassen. Abbildungen sind eigene Schemata. Quelle: Lernhefte zu CE 11.3 „Ausweglos?“.</footer>
     </div>
 
+    <!-- Lernheft-Viewer (PDF.js), öffnet über der App statt in einem neuen Tab -->
+    <dialog class="pdf-viewer" id="pdfViewer" aria-labelledby="pdfViewerTitle">
+        <div class="pdf-viewer-bar">
+            <button class="btn pdf-viewer-close" type="button" id="pdfViewerClose">← Zurück zur Frage</button>
+            <h2 class="pdf-viewer-title" id="pdfViewerTitle">Lernheft</h2>
+            <div class="pdf-viewer-nav">
+                <button class="pdf-viewer-step" type="button" id="pdfViewerPrev" aria-label="Vorherige Seite">‹</button>
+                <span class="pdf-viewer-page" id="pdfViewerPage" aria-live="polite"></span>
+                <button class="pdf-viewer-step" type="button" id="pdfViewerNext" aria-label="Nächste Seite">›</button>
+            </div>
+            <a class="pdf-viewer-fallback" id="pdfViewerFallback" href="#" target="_blank" rel="noopener">Als PDF öffnen</a>
+        </div>
+        <p class="pdf-viewer-status" id="pdfViewerStatus" hidden></p>
+        <div class="pdf-viewer-pages" id="pdfViewerPages"></div>
+    </dialog>
+
     <!-- Schwebender Rücksprung, nur sichtbar nach Sprung aus einer Frage ins Glossar -->
     <button class="back-float" type="button" id="backToQuiz" hidden>
         <span class="back-float-arrow" aria-hidden="true">←</span>
