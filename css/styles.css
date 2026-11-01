@@ -1275,3 +1275,82 @@ select.gap option {
         transition: none;
     }
 }
+
+/* Schwebender Rücksprung aus dem Glossar zur Frage */
+.back-float {
+    position: fixed;
+    z-index: 20;
+    top: 50%;
+    right: calc(50% + 380px + 14px);
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    width: 128px;
+    padding: 16px 14px;
+    border: 0;
+    border-radius: 16px;
+    background: var(--accent);
+    color: var(--accent-ink);
+    font-family: var(--font-body);
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    box-shadow: 0 8px 24px rgba(21, 35, 58, 0.25);
+    cursor: pointer;
+}
+
+.back-float[hidden] {
+    display: none;
+}
+
+.back-float-arrow {
+    font-size: 1.8rem;
+    line-height: 1;
+}
+
+.back-float:hover {
+    filter: brightness(1.08);
+}
+
+.back-float:focus-visible {
+    outline: 3px solid var(--ink);
+    outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .back-float {
+        animation: back-float-in 0.25s ease-out;
+    }
+}
+
+@keyframes back-float-in {
+    from { opacity: 0; transform: translate(-12px, -50%); }
+    to { opacity: 1; transform: translate(0, -50%); }
+}
+
+/* Schmale Fenster: kein Platz neben den Begriffen – unten links schweben */
+@media (max-width: 1060px) {
+    .back-float {
+        top: auto;
+        right: auto;
+        bottom: 20px;
+        left: 16px;
+        transform: none;
+        flex-direction: row;
+        width: auto;
+        gap: 10px;
+        padding: 14px 20px;
+    }
+
+    .back-float-arrow {
+        font-size: 1.4rem;
+    }
+
+    @keyframes back-float-in {
+        from { opacity: 0; transform: translateY(12px); }
+        to { opacity: 1; transform: none; }
+    }
+}

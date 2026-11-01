@@ -29,7 +29,18 @@ function getPanel(tab) {
     return document.querySelector(`#${tab.getAttribute("aria-controls")}`);
 }
 
+// Merkt sich, von welcher Frage aus ins Glossar gesprungen wurde
+let returnPoint = null;
+
+function setReturnPoint(point) {
+    returnPoint = point;
+    dom.backToQuiz.hidden = !point;
+}
+
 function showMode(modeId) {
+    if (modeId !== "glossary") {
+        setReturnPoint(null);
+    }
     state.activeMode = modeId;
     dom.modeTabs.forEach(tab => {
         const isActive = tab.dataset.mode === modeId;
@@ -56,6 +67,17 @@ function initTabs(availableModes) {
     showMode(availableModes.includes(hashMode) ? hashMode : firstQuiz ?? availableModes[0]);
 }
 
+function initBackToQuiz() {
+    dom.backToQuiz.addEventListener("click", () => {
+        if (!returnPoint) {
+            return;
+        }
+        const { modeId, scrollY } = returnPoint;
+        showMode(modeId);
+        window.scrollTo({ top: scrollY });
+    });
+}
+
 function showError(message) {
     dom.appError.textContent = message;
     dom.appError.hidden = false;
@@ -66,7 +88,9 @@ function createLinks(topic, glossaryApi) {
     return {
         hasGlossaryTerm: term => Boolean(glossaryApi?.hasTerm(term)),
         openGlossary: term => {
+            const point = { modeId: state.activeMode, scrollY: window.scrollY };
             showMode("glossary");
+            setReturnPoint(point);
             glossaryApi.focusTerm(term);
         },
         getDocument: id => documents.get(id) ?? null,
@@ -108,6 +132,7 @@ async function start() {
         }
     });
     initTabs(availableModes);
+    initBackToQuiz();
 }
 
 start();

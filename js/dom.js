@@ -51,5 +51,8 @@ export const glossaryLetters = document.querySelector("#glossaryLetters");
 export const glossaryCount = document.querySelector("#glossaryCount");
 export const glossaryList = document.querySelector("#glossaryList");
 
+// Rücksprung aus dem Glossar
+export const backToQuiz = document.querySelector("#backToQuiz");
+
 // Lernhefte
 export const docList = document.querySelector("#docList");

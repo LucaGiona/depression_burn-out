@@ -85,3 +85,14 @@ zusätzlich zu diesen Themen. Analog **`extraTopics`** an Glossareinträgen.
 
 Übertragen auf andere Quizze: die beiden JS-Dateien kopieren, dann im JSON eine Kategorie anlegen
 und Items per `extraCategories` zuordnen.
+
+### Schwebender Button „Zurück zur Frage“ im Glossar (01.11.2026)
+
+Springt man aus einer Frage ins Glossar („Im Glossar: …“), erscheint links neben den Begriffen
+auf halber Höhe ein großer Button, der zurück zur Frage und zur alten Scrollposition führt.
+Auf schmalen Fenstern (≤ 1060 px) schwebt er unten links. Bei normalem Tab-Wechsel verschwindet er.
+
+- `index.html`: Button `#backToQuiz` vor dem `<script>`
+- `js/dom.js`: `backToQuiz`
+- `js/main.js`: `returnPoint`, `setReturnPoint`, `initBackToQuiz`, `openGlossary` merkt sich den Modus
+- `css/styles.css`: Abschnitt `.back-float` am Ende
