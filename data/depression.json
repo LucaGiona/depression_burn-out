@@ -101,7 +101,8 @@
           "explanation": "ZNS = Gehirn + Rückenmark. Hirnnerven, Spinalnerven und Ganglien gehören zum PNS.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 1
+            "chapter": 1,
+            "page": 4
           }
         },
         {
@@ -120,7 +121,8 @@
           "explanation": "Autonom = nicht willentlich steuerbar, kontrolliert die Organe.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -139,7 +141,8 @@
           "explanation": "Topografisch = nach Lage: ZNS und PNS. Funktionell = somatisch und autonom.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -158,7 +161,8 @@
           "explanation": "Höhere Hirnleistungen: Gedächtnis, Lernen, Denken, Urteilen, Kreativität, Sprache, bewusste Wahrnehmung.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -178,7 +182,8 @@
           "glossary": "Medulla spinalis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -198,7 +203,8 @@
           "glossary": "Axon",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -218,7 +224,8 @@
           "glossary": "Axon",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -238,7 +245,8 @@
           "glossary": "Axon",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 6
           }
         },
         {
@@ -258,7 +266,8 @@
           "glossary": "Perikaryon",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -278,7 +287,8 @@
           "glossary": "Axon",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -298,7 +308,8 @@
           "glossary": "Oligodendrozyt",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -318,7 +329,8 @@
           "glossary": "Schwann-Zelle",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -338,7 +350,8 @@
           "glossary": "Astrozyt",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -358,7 +371,8 @@
           "glossary": "Mikroglia",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -378,7 +392,8 @@
           "glossary": "Ependymzelle",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -398,7 +413,8 @@
           "glossary": "Gliazellen",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -417,7 +433,8 @@
           "explanation": "Nervenfaser = Axon + Gliazellhülle; mehrere Fasern → Bündel → Nerv.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -437,7 +454,8 @@
           "glossary": "Afferenz",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -457,7 +475,8 @@
           "glossary": "Afferenz",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 7
           }
         },
         {
@@ -477,7 +496,8 @@
           "glossary": "Epineurium",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 7
           }
         },
         {
@@ -497,7 +517,8 @@
           "glossary": "Perineurium",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -517,7 +538,8 @@
           "glossary": "Markscheide",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -537,7 +559,8 @@
           "glossary": "Multiple Sklerose",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -556,7 +579,8 @@
           "explanation": "Marklose Fasern sind dünn und langsam; typisch für das vegetative Nervensystem.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -576,7 +600,8 @@
           "glossary": "Ruhemembranpotenzial",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -596,7 +621,8 @@
           "glossary": "Aktionspotenzial",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -616,7 +642,8 @@
           "glossary": "Depolarisation",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -636,7 +663,8 @@
           "glossary": "Repolarisation",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -656,7 +684,8 @@
           "glossary": "Ruhemembranpotenzial",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -676,7 +705,8 @@
           "glossary": "Ruhemembranpotenzial",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -696,7 +726,8 @@
           "glossary": "Aktionspotenzial",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -716,7 +747,8 @@
           "glossary": "Refraktärzeit",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -736,7 +768,8 @@
           "glossary": "Aktionspotenzial",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -756,7 +789,8 @@
           "glossary": "Saltatorische Erregungsleitung",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 9
           }
         },
         {
@@ -776,7 +810,8 @@
           "glossary": "Ranvier-Schnürring",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 9
           }
         },
         {
@@ -796,7 +831,8 @@
           "glossary": "Synapse",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 9
           }
         },
         {
@@ -816,7 +852,8 @@
           "glossary": "Gap Junction",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -836,7 +873,8 @@
           "glossary": "Gap Junction",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -856,7 +894,8 @@
           "glossary": "Synaptischer Spalt",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -876,7 +915,8 @@
           "glossary": "Neurotransmitter",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -896,7 +936,8 @@
           "glossary": "Vesikel",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -916,7 +957,8 @@
           "glossary": "Neurotransmitter",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -936,7 +978,8 @@
           "glossary": "Glutamat",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 11
           }
         },
         {
@@ -956,7 +999,8 @@
           "glossary": "Acetylcholin",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -976,7 +1020,8 @@
           "glossary": "Glycin",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 11
           }
         },
         {
@@ -996,7 +1041,8 @@
           "glossary": "Serotonin",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 11
           }
         },
         {
@@ -1016,7 +1062,8 @@
           "glossary": "SSRI",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 11
           },
           "extraCategories": [
             "medikamente"
@@ -1039,7 +1086,8 @@
           "glossary": "Monoaminoxidase",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 11
           },
           "extraCategories": [
             "medikamente"
@@ -1062,7 +1110,8 @@
           "glossary": "SSRI",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 11
           },
           "extraCategories": [
             "medikamente"
@@ -1084,7 +1133,8 @@
           "explanation": "Das Gehirn wiegt ca. 1300 g.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 12
           }
         },
         {
@@ -1104,7 +1154,8 @@
           "glossary": "Corpus callosum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 12
           }
         },
         {
@@ -1124,7 +1175,8 @@
           "glossary": "Sulcus centralis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1144,7 +1196,8 @@
           "glossary": "Gyrus praecentralis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1164,7 +1217,8 @@
           "glossary": "Gyrus postcentralis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1183,7 +1237,8 @@
           "explanation": "Achtung: nicht im Scheitel-, sondern im Hinterhauptslappen.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1202,7 +1257,8 @@
           "explanation": "Akustische Reize aus dem Innenohr werden im Temporallappen verarbeitet.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1222,7 +1278,8 @@
           "glossary": "Homunkulus",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1242,7 +1299,8 @@
           "glossary": "Broca-Zentrum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1262,7 +1320,8 @@
           "glossary": "Wernicke-Zentrum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1282,7 +1341,8 @@
           "glossary": "Assoziationsgebiete",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -1302,7 +1362,8 @@
           "glossary": "Kortex",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 13
           }
         },
         {
@@ -1322,7 +1383,8 @@
           "glossary": "Broca-Zentrum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 12
           }
         },
         {
@@ -1342,7 +1404,8 @@
           "glossary": "Thalamus",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 16
           }
         },
         {
@@ -1362,7 +1425,8 @@
           "glossary": "Hypothalamus",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1382,7 +1446,8 @@
           "glossary": "Hypophyse",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1401,7 +1466,8 @@
           "explanation": "Epithalamus und Epiphyse sind am Tag-Nacht-Rhythmus beteiligt.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1421,7 +1487,8 @@
           "glossary": "Medulla oblongata",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1441,7 +1508,8 @@
           "glossary": "Truncus encephali",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1461,7 +1529,8 @@
           "glossary": "Truncus encephali",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1481,7 +1550,8 @@
           "glossary": "Cerebellum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1501,7 +1571,8 @@
           "glossary": "Cerebellum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1521,7 +1592,8 @@
           "glossary": "Amygdala",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -1541,7 +1613,8 @@
           "glossary": "Dopamin",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 16
           }
         },
         {
@@ -1561,7 +1634,8 @@
           "glossary": "Basalkerne",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 16
           }
         },
         {
@@ -1581,7 +1655,8 @@
           "glossary": "Medulla spinalis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 16
           }
         },
         {
@@ -1601,7 +1676,8 @@
           "glossary": "Medulla spinalis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 16
           }
         },
         {
@@ -1621,7 +1697,8 @@
           "glossary": "Medulla spinalis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 16
           }
         },
         {
@@ -1641,7 +1718,8 @@
           "glossary": "Cauda equina",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 16
           }
         },
         {
@@ -1661,7 +1739,8 @@
           "glossary": "Motoneuron",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -1680,7 +1759,8 @@
           "explanation": "Afferente Fasern ziehen über die Hinterwurzel ins Hinterhorn.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -1699,7 +1779,8 @@
           "explanation": "Dort liegen die autonomen Nervenzellen.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 16
           }
         },
         {
@@ -1719,7 +1800,8 @@
           "glossary": "Spinalganglion",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -1739,7 +1821,8 @@
           "glossary": "Spinalnerv",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -1759,7 +1842,8 @@
           "glossary": "Pyramidenbahn",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 18
           }
         },
         {
@@ -1779,7 +1863,8 @@
           "glossary": "Pyramidenbahn",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 18
           }
         },
         {
@@ -1799,7 +1884,8 @@
           "glossary": "Motoneuron",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 18
           }
         },
         {
@@ -1818,7 +1904,8 @@
           "explanation": "Feine Berührung und Propriozeption: Hinterstrang.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 18
           }
         },
         {
@@ -1838,7 +1925,8 @@
           "glossary": "Extrapyramidales System",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 18
           }
         },
         {
@@ -1857,7 +1945,8 @@
           "explanation": "Je höher die Schädigung, desto schwerer die Folgen.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 18
           }
         },
         {
@@ -1877,7 +1966,8 @@
           "glossary": "Meningen",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 21
           }
         },
         {
@@ -1897,7 +1987,8 @@
           "glossary": "Pia mater",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 19
           }
         },
         {
@@ -1917,7 +2008,8 @@
           "glossary": "Subarachnoidalraum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -1937,7 +2029,8 @@
           "glossary": "Epiduralraum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 19
           }
         },
         {
@@ -1957,7 +2050,8 @@
           "glossary": "Meningitis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 19
           }
         },
         {
@@ -1976,7 +2070,8 @@
           "explanation": "Kurz bewusstlos, dann wach, dann plötzliche Verschlechterung.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -1995,7 +2090,8 @@
           "explanation": "Chronische Form v. a. bei alten Menschen – Verwirrtheit wird leicht übersehen.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -2015,7 +2111,8 @@
           "glossary": "Subarachnoidalraum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -2035,7 +2132,8 @@
           "glossary": "Liquor cerebrospinalis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 21
           }
         },
         {
@@ -2055,7 +2153,8 @@
           "glossary": "Liquor cerebrospinalis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -2075,7 +2174,8 @@
           "glossary": "Plexus choroideus",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -2095,7 +2195,8 @@
           "glossary": "Arachnoidea",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 21
           }
         },
         {
@@ -2115,7 +2216,8 @@
           "glossary": "Liquor cerebrospinalis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -2135,7 +2237,8 @@
           "glossary": "Ventrikel",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -2155,7 +2258,8 @@
           "glossary": "Ventrikel",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -2175,7 +2279,8 @@
           "glossary": "Lumbalpunktion",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 21
           }
         },
         {
@@ -2195,7 +2300,8 @@
           "glossary": "Lumbalpunktion",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 21
           }
         },
         {
@@ -2215,7 +2321,8 @@
           "glossary": "Hydrozephalus",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 21
           }
         },
         {
@@ -2234,7 +2341,8 @@
           "explanation": "Relativ konstant, egal ob Ruhe oder Bewegung.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 21
           }
         },
         {
@@ -2254,7 +2362,8 @@
           "glossary": "Circulus arteriosus cerebri",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -2274,7 +2383,8 @@
           "glossary": "Circulus arteriosus cerebri",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -2294,7 +2404,8 @@
           "glossary": "Circulus arteriosus cerebri",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -2313,7 +2424,8 @@
           "explanation": "Die Unterscheidung Ischämie/Blutung gelingt nur mit CT/MRT.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -2332,7 +2444,8 @@
           "explanation": "Kopfdrehung oder Seitenlage behindern den venösen Abfluss.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -2351,7 +2464,8 @@
           "explanation": "Das Blut kann in beide Richtungen fließen.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -2371,7 +2485,8 @@
           "glossary": "Blut-Hirn-Schranke",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 23
           }
         },
         {
@@ -2391,7 +2506,8 @@
           "glossary": "Blut-Hirn-Schranke",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 23
           }
         },
         {
@@ -2411,7 +2527,8 @@
           "glossary": "Blut-Hirn-Schranke",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 23
           }
         },
         {
@@ -2430,7 +2547,8 @@
           "explanation": "Fettsäuren passieren die Blut-Hirn-Schranke nicht.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 23
           }
         },
         {
@@ -2450,7 +2568,8 @@
           "glossary": "Blut-Hirn-Schranke",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 23
           }
         },
         {
@@ -2470,7 +2589,8 @@
           "glossary": "Dura mater",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 23
           }
         },
         {
@@ -2489,7 +2609,8 @@
           "explanation": "Spinalnerven: 31–33 Paare.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 11
+            "chapter": 11,
+            "page": 24
           }
         },
         {
@@ -2509,7 +2630,8 @@
           "glossary": "Ganglion",
           "source": {
             "doc": "nervensystem",
-            "chapter": 11
+            "chapter": 11,
+            "page": 24
           }
         },
         {
@@ -2528,7 +2650,8 @@
           "explanation": "Riechen, Sehen, Hören/Gleichgewicht.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 11
+            "chapter": 11,
+            "page": 24
           }
         },
         {
@@ -2547,7 +2670,8 @@
           "explanation": "Er ist motorisch, sensibel und parasympathisch.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 11
+            "chapter": 11,
+            "page": 24
           }
         },
         {
@@ -2566,7 +2690,8 @@
           "explanation": "Der N. trigeminus versorgt Gesichtssensibilität und Kaumuskeln.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 11
+            "chapter": 11,
+            "page": 24
           }
         },
         {
@@ -2585,7 +2710,8 @@
           "explanation": "Rein motorisch.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 11
+            "chapter": 11,
+            "page": 24
           }
         },
         {
@@ -2605,7 +2731,8 @@
           "glossary": "Schwingungsfähigkeit",
           "source": {
             "doc": "depression",
-            "chapter": 1
+            "chapter": 1,
+            "page": 4
           }
         },
         {
@@ -2625,7 +2752,8 @@
           "glossary": "Adhärenz",
           "source": {
             "doc": "depression",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           },
           "extraCategories": [
             "medikamente"
@@ -2647,7 +2775,8 @@
           "explanation": "Auch Kultur, Gender-Stereotype und eigene Wünsche (z. B. Behandlungserfolg).",
           "source": {
             "doc": "depression",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -2667,7 +2796,8 @@
           "glossary": "Bezugspflege",
           "source": {
             "doc": "depression",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -2687,7 +2817,8 @@
           "glossary": "Affektive Störung",
           "source": {
             "doc": "depression",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -2707,7 +2838,8 @@
           "glossary": "Manie",
           "source": {
             "doc": "depression",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -2727,7 +2859,8 @@
           "glossary": "Depression",
           "source": {
             "doc": "depression",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -2747,7 +2880,8 @@
           "glossary": "Lebenszeitprävalenz",
           "source": {
             "doc": "depression",
-            "chapter": 3
+            "chapter": 3,
+            "page": 4
           }
         },
         {
@@ -2766,7 +2900,8 @@
           "explanation": "Gründe: Hormone, soziale Rollen, Unterschiede in der Diagnosestellung.",
           "source": {
             "doc": "depression",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -2785,7 +2920,8 @@
           "explanation": "Dazu kommen Hormone, soziale Unterschiede und Rollenkonflikte.",
           "source": {
             "doc": "depression",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -2805,7 +2941,8 @@
           "glossary": "Komorbidität",
           "source": {
             "doc": "depression",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -2825,7 +2962,8 @@
           "glossary": "Komorbidität",
           "source": {
             "doc": "depression",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -2844,7 +2982,8 @@
           "explanation": "Depression ist die häufigste psychische Ursache für Suizide.",
           "source": {
             "doc": "depression",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -2863,7 +3002,8 @@
           "explanation": "Im Alter ist Depression die häufigste psychische Störung.",
           "source": {
             "doc": "depression",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -2883,7 +3023,8 @@
           "glossary": "Vulnerabilitäts-Stress-Modell",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -2903,7 +3044,8 @@
           "glossary": "Neurotransmitter",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -2922,7 +3064,8 @@
           "explanation": "Laut Folie auch L-Dopa (Parkinsonmedikament).",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           },
           "extraCategories": [
             "medikamente"
@@ -2944,7 +3087,8 @@
           "explanation": "Nach einer Episode erleiden 40–60 % einen Rückfall.",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -2964,7 +3108,8 @@
           "glossary": "Zirkadianer Rhythmus",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -2983,7 +3128,8 @@
           "explanation": "Getrennte, Verwitwete und Menschen ohne enge Bezugspersonen erkranken eher.",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -3003,7 +3149,8 @@
           "glossary": "Morgentief",
           "source": {
             "doc": "depression",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -3022,7 +3169,8 @@
           "explanation": "Seltener kommt vermehrter Schlaf (Hypersomnie) vor.",
           "source": {
             "doc": "depression",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -3041,7 +3189,8 @@
           "explanation": "Depression zeigt sich oft auch körperlich.",
           "source": {
             "doc": "depression",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -3061,7 +3210,8 @@
           "glossary": "Suizidalität",
           "source": {
             "doc": "depression",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -3081,7 +3231,8 @@
           "glossary": "Depression",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -3101,7 +3252,8 @@
           "glossary": "Depression",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -3120,7 +3272,8 @@
           "explanation": "Leicht 4–5, mittel 6–7, schwer ≥ 8 Symptome (schwer: alle 3 Hauptsymptome).",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -3139,7 +3292,8 @@
           "explanation": "Mit Wahn: „mit psychotischen Symptomen“.",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -3159,7 +3313,8 @@
           "glossary": "HAMD",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -3179,7 +3334,8 @@
           "glossary": "HAMD",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -3199,7 +3355,8 @@
           "glossary": "HAMD",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -3218,7 +3375,8 @@
           "explanation": "Z. B. Schilddrüsenstörung, Zustand nach Herzinfarkt, Krebs.",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -3238,7 +3396,8 @@
           "glossary": "Unipolare Depression",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -3258,7 +3417,8 @@
           "glossary": "Dysthymie",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -3278,7 +3438,8 @@
           "glossary": "Bipolare Störung",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -3298,7 +3459,8 @@
           "glossary": "Saisonale Depression",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -3318,7 +3480,8 @@
           "glossary": "Larvierte Depression",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -3338,7 +3501,8 @@
           "glossary": "Wochenbettdepression",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -3358,7 +3522,8 @@
           "glossary": "Rezidiv",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -3378,7 +3543,8 @@
           "glossary": "Double Depression",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -3397,7 +3563,8 @@
           "explanation": "Auch Selbstzweifel, manchmal autoaggressives Verhalten.",
           "source": {
             "doc": "depression",
-            "chapter": 8
+            "chapter": 8,
+            "page": 11
           }
         },
         {
@@ -3416,7 +3583,8 @@
           "explanation": "Auch außerhalb der Psychiatrie auf die Stimmung achten!",
           "source": {
             "doc": "depression",
-            "chapter": 8
+            "chapter": 8,
+            "page": 11
           }
         },
         {
@@ -3436,7 +3604,8 @@
           "glossary": "Antidepressivum",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -3459,7 +3628,8 @@
           "glossary": "SSRI",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -3482,7 +3652,8 @@
           "glossary": "SSNRI",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -3505,7 +3676,8 @@
           "glossary": "MAO-Hemmer",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -3528,7 +3700,8 @@
           "glossary": "Trizyklische Antidepressiva",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -3551,7 +3724,8 @@
           "glossary": "SSRI",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -3574,7 +3748,8 @@
           "glossary": "Wirklatenz",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -3597,7 +3772,8 @@
           "glossary": "Wirklatenz",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -3619,7 +3795,8 @@
           "explanation": "Gesammelte Medikamente können für einen Suizidversuch genutzt werden.",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -3642,7 +3819,8 @@
           "glossary": "Johanniskraut",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -3665,7 +3843,8 @@
           "glossary": "Johanniskraut",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -3688,7 +3867,8 @@
           "glossary": "Johanniskraut",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -3711,7 +3891,8 @@
           "glossary": "MAO-Hemmer",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -3733,7 +3914,8 @@
           "explanation": "Bei mittelgradiger Episode: Psychotherapie oder Antidepressivum gleichwertig.",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           },
           "extraCategories": [
             "medikamente"
@@ -3755,7 +3937,8 @@
           "explanation": "Antidepressiva nur unter kritischer Abwägung.",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -3775,7 +3958,8 @@
           "glossary": "Wachtherapie",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -3795,7 +3979,8 @@
           "glossary": "Wachtherapie",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -3815,7 +4000,8 @@
           "glossary": "Lichttherapie",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -3835,7 +4021,8 @@
           "glossary": "Lichttherapie",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -3855,7 +4042,8 @@
           "glossary": "EKT",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -3875,7 +4063,8 @@
           "glossary": "Milieutherapie",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -3894,7 +4083,8 @@
           "explanation": "Nur bei entsprechender Ausbildung zahlt die Krankenkasse.",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -3913,7 +4103,8 @@
           "explanation": "Aufmuntern und Appelle überfordern und verstärken Schuldgefühle.",
           "source": {
             "doc": "depression",
-            "chapter": 11
+            "chapter": 11,
+            "page": 15
           }
         },
         {
@@ -3933,7 +4124,8 @@
           "glossary": "Morgentief",
           "source": {
             "doc": "depression",
-            "chapter": 11
+            "chapter": 11,
+            "page": 16
           }
         },
         {
@@ -3953,7 +4145,8 @@
           "glossary": "Suizidalität",
           "source": {
             "doc": "depression",
-            "chapter": 11
+            "chapter": 11,
+            "page": 16
           }
         },
         {
@@ -3972,7 +4165,8 @@
           "explanation": "Z. B. Kündigung oder Trennung erst nach Besserung bedenken.",
           "source": {
             "doc": "depression",
-            "chapter": 11
+            "chapter": 11,
+            "page": 15
           }
         },
         {
@@ -3992,7 +4186,8 @@
           "glossary": "Stress",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -4012,7 +4207,8 @@
           "glossary": "Stress",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -4032,7 +4228,8 @@
           "glossary": "Eustress",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -4052,7 +4249,8 @@
           "glossary": "Disstress",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -4072,7 +4270,8 @@
           "glossary": "Kortisol",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -4092,7 +4291,8 @@
           "glossary": "Alarmreaktion",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -4112,7 +4312,8 @@
           "glossary": "Stress",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 4
           }
         },
         {
@@ -4131,7 +4332,8 @@
           "explanation": "Weitere: Rückenschmerzen, Schlafstörungen, Infekte, Depression.",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -4151,7 +4353,8 @@
           "glossary": "Transaktionales Stressmodell",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -4171,7 +4374,8 @@
           "glossary": "Primäre Bewertung",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -4191,7 +4395,8 @@
           "glossary": "Sekundäre Bewertung",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -4211,7 +4416,8 @@
           "glossary": "Ressourcen",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -4231,7 +4437,8 @@
           "glossary": "Problemorientiertes Coping",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -4251,7 +4458,8 @@
           "glossary": "Emotionsorientiertes Coping",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -4271,7 +4479,8 @@
           "glossary": "Coping",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -4291,7 +4500,8 @@
           "glossary": "Primäre Bewertung",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -4310,7 +4520,8 @@
           "explanation": "Besonders viele Fehltage durch psychische und Muskel-Skelett-Erkrankungen.",
           "source": {
             "doc": "burnout",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -4330,7 +4541,8 @@
           "glossary": "Burn-out-Syndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -4350,7 +4562,8 @@
           "glossary": "Syndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -4370,7 +4583,8 @@
           "glossary": "Burn-out-Syndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -4390,7 +4604,8 @@
           "glossary": "Burn-out-Syndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -4409,7 +4624,8 @@
           "explanation": "Burn-out entwickelt sich langsam.",
           "source": {
             "doc": "burnout",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -4428,7 +4644,8 @@
           "explanation": "Dazu Verspannungen, Kopfschmerzen, Herzrhythmusstörungen, Libidoverlust.",
           "source": {
             "doc": "burnout",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -4447,7 +4664,8 @@
           "explanation": "Betroffene definieren sich oft nur über Leistung.",
           "source": {
             "doc": "burnout",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -4466,7 +4684,8 @@
           "explanation": "I care beschreibt zusätzlich ein vereinfachtes Modell mit 10 Phasen.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -4485,7 +4704,8 @@
           "explanation": "Große Ziele, viel Enthusiasmus.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -4504,7 +4724,8 @@
           "explanation": "Spätestens hier sollte man gegensteuern.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -4523,7 +4744,8 @@
           "explanation": "Enttäuschungen werden „heruntergeschluckt“, Fehlzeiten nehmen zu.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -4543,7 +4765,8 @@
           "glossary": "Depersonalisierung",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -4563,7 +4786,8 @@
           "glossary": "Zynismus",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -4582,7 +4806,8 @@
           "explanation": "Lebensgefährliche Erschöpfung.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -4601,7 +4826,8 @@
           "explanation": "Spätestens bei Verflachung, Depersonalisierung und innerer Leere; Grenzen sind fließend.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -4621,7 +4847,8 @@
           "glossary": "Burn-out-Syndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -4641,7 +4868,8 @@
           "glossary": "Zynismus",
           "source": {
             "doc": "burnout",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -4661,7 +4889,8 @@
           "glossary": "Erschöpfungsdepression",
           "source": {
             "doc": "burnout",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -4681,7 +4910,8 @@
           "glossary": "Diathese",
           "source": {
             "doc": "burnout",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -4701,7 +4931,8 @@
           "glossary": "Diathese",
           "source": {
             "doc": "burnout",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -4721,7 +4952,8 @@
           "glossary": "Helfersyndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -4741,7 +4973,8 @@
           "glossary": "Helfersyndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -4761,7 +4994,8 @@
           "glossary": "Helfersyndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -4781,7 +5015,8 @@
           "glossary": "Helfersyndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -4801,7 +5036,8 @@
           "glossary": "Helfersyndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -4821,7 +5057,8 @@
           "glossary": "Helfersyndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 7
+            "chapter": 7,
+            "page": 11
           }
         },
         {
@@ -4841,7 +5078,8 @@
           "glossary": "Progressive Muskelentspannung",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 13
           }
         },
         {
@@ -4861,7 +5099,8 @@
           "glossary": "Progressive Muskelentspannung",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -4880,7 +5119,8 @@
           "explanation": "Durch die Nase ein, durch den Mund aus, Hand auf dem Bauch.",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -4900,7 +5140,8 @@
           "glossary": "Eisenhower-Methode",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -4920,7 +5161,8 @@
           "glossary": "Eisenhower-Methode",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -4939,7 +5181,8 @@
           "explanation": "Negative Glaubenssätze blockieren und machen das Leben schwer.",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 11
           }
         },
         {
@@ -4958,7 +5201,8 @@
           "explanation": "„Ich bin …“ statt „Ich werde …“.",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 11
           }
         },
         {
@@ -4978,7 +5222,8 @@
           "glossary": "Supervision",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -4997,7 +5242,8 @@
           "explanation": "Und zu ärztlichem/therapeutischem Rat ermutigen.",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -5016,7 +5262,8 @@
           "explanation": "Folie „Burnoutprophylaxen“.",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 11
           }
         },
         {
@@ -5036,7 +5283,8 @@
           "glossary": "Suizid",
           "source": {
             "doc": "suizid",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -5056,7 +5304,8 @@
           "glossary": "Suizidalität",
           "source": {
             "doc": "suizid",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -5076,7 +5325,8 @@
           "glossary": "Suizidversuch",
           "source": {
             "doc": "suizid",
-            "chapter": 1
+            "chapter": 1,
+            "page": 4
           }
         },
         {
@@ -5096,7 +5346,8 @@
           "glossary": "Parasuizid",
           "source": {
             "doc": "suizid",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -5116,7 +5367,8 @@
           "glossary": "Erweiterter Suizid",
           "source": {
             "doc": "suizid",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -5136,7 +5388,8 @@
           "glossary": "Bilanzsuizid",
           "source": {
             "doc": "suizid",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -5156,7 +5409,8 @@
           "glossary": "Suizid",
           "source": {
             "doc": "suizid",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -5175,7 +5429,8 @@
           "explanation": "Mehr als Verkehrstote. Suizidversuche: mindestens 100 000.",
           "source": {
             "doc": "suizid",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -5194,7 +5449,8 @@
           "explanation": "Suizidversuche sind dagegen bei Frauen häufiger.",
           "source": {
             "doc": "suizid",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -5213,7 +5469,8 @@
           "explanation": "Höchste Rate bei älteren Männern.",
           "source": {
             "doc": "suizid",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -5232,7 +5489,8 @@
           "explanation": "Bei ca. 90 % der Suizide liegt eine psychische Erkrankung vor, am häufigsten Depression.",
           "source": {
             "doc": "suizid",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -5252,7 +5510,8 @@
           "glossary": "Suizidversuch",
           "source": {
             "doc": "suizid",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -5271,7 +5530,8 @@
           "explanation": "WHO-Bericht 2014.",
           "source": {
             "doc": "suizid",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -5290,7 +5550,8 @@
           "explanation": "Weitere: Religiosität, Selbstwirksamkeit, Gründe zu leben.",
           "source": {
             "doc": "suizid",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -5309,7 +5570,8 @@
           "explanation": "Stabile Beziehungen schützen.",
           "source": {
             "doc": "suizid",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -5328,7 +5590,8 @@
           "explanation": "Kein Faktor erklärt einen Suizid allein.",
           "source": {
             "doc": "suizid",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -5347,7 +5610,8 @@
           "explanation": "Nach Pöldinger, Abbildung nach Mirisch.",
           "source": {
             "doc": "suizid",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -5367,7 +5631,8 @@
           "glossary": "Ambivalenz",
           "source": {
             "doc": "suizid",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -5387,7 +5652,8 @@
           "glossary": "Ruhe vor dem Sturm",
           "source": {
             "doc": "suizid",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -5407,7 +5673,8 @@
           "glossary": "Präsuizidales Syndrom",
           "source": {
             "doc": "suizid",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -5426,7 +5693,8 @@
           "explanation": "Angelegenheiten ordnen und Abschied nehmen.",
           "source": {
             "doc": "suizid",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -5446,7 +5714,8 @@
           "glossary": "Ruhe vor dem Sturm",
           "source": {
             "doc": "suizid",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -5465,7 +5734,8 @@
           "explanation": "Warnsymptome und Androhungen sehr ernst nehmen.",
           "source": {
             "doc": "suizid",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -5484,7 +5754,8 @@
           "explanation": "Ausdruck großer Hoffnungslosigkeit.",
           "source": {
             "doc": "suizid",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -5503,7 +5774,8 @@
           "explanation": "Studien zeigen keinen Anstieg durch Nachfragen (NVL).",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -5523,7 +5795,8 @@
           "glossary": "Suizidalität",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 7
           }
         },
         {
@@ -5542,7 +5815,8 @@
           "explanation": "Folie 15: konkreter Plan → höchste Vorsicht.",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -5561,7 +5835,8 @@
           "explanation": "Suizidalität als Ausdruck seelischer Not akzeptieren.",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -5580,7 +5855,8 @@
           "explanation": "Pflegende müssen reagieren – Untätigkeit kann strafbar sein.",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -5599,7 +5875,8 @@
           "explanation": "Wer keinen klaren Abstand zur Suizididee hat, braucht Hilfe.",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -5619,7 +5896,8 @@
           "glossary": "Krisenintervention",
           "source": {
             "doc": "suizid",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -5638,7 +5916,8 @@
           "explanation": "Teil einer sicheren Umgebung.",
           "source": {
             "doc": "suizid",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           },
           "extraCategories": [
             "medikamente"
@@ -5661,7 +5940,8 @@
           "glossary": "Sichtkontrolle",
           "source": {
             "doc": "suizid",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -5681,7 +5961,8 @@
           "glossary": "Unterbringung",
           "source": {
             "doc": "suizid",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -5700,7 +5981,8 @@
           "explanation": "Alleinsein vermeiden, Vertrauenspersonen einbeziehen.",
           "source": {
             "doc": "suizid",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -5720,7 +6002,8 @@
           "glossary": "Antisuizidpakt",
           "source": {
             "doc": "suizid",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -5740,7 +6023,8 @@
           "glossary": "Antisuizidpakt",
           "source": {
             "doc": "suizid",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -5760,7 +6044,8 @@
           "glossary": "Notfallplan",
           "source": {
             "doc": "suizid",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -5779,7 +6064,8 @@
           "explanation": "Auch private Gespräche und therapeutische Hilfe.",
           "source": {
             "doc": "suizid",
-            "chapter": 9
+            "chapter": 9,
+            "page": 10
           }
         },
         {
@@ -5798,7 +6084,8 @@
           "explanation": "Auf eigene Suizidalität achten – Nachahmungsgefahr.",
           "source": {
             "doc": "suizid",
-            "chapter": 9
+            "chapter": 9,
+            "page": 10
           }
         },
         {
@@ -5818,7 +6105,8 @@
           "glossary": "Hinterbliebene",
           "source": {
             "doc": "suizid",
-            "chapter": 9
+            "chapter": 9,
+            "page": 10
           }
         },
         {
@@ -5838,7 +6126,8 @@
           "glossary": "Werther-Effekt",
           "source": {
             "doc": "suizid",
-            "chapter": 10
+            "chapter": 10,
+            "page": 11
           }
         },
         {
@@ -5858,7 +6147,8 @@
           "glossary": "Werther-Effekt",
           "source": {
             "doc": "suizid",
-            "chapter": 10
+            "chapter": 10,
+            "page": 11
           }
         },
         {
@@ -5877,7 +6167,8 @@
           "explanation": "Medienguide der Deutschen Depressionshilfe.",
           "source": {
             "doc": "suizid",
-            "chapter": 10
+            "chapter": 10,
+            "page": 11
           }
         },
         {
@@ -5896,7 +6187,8 @@
           "explanation": "Nicht alle Medien halten sich daran.",
           "source": {
             "doc": "suizid",
-            "chapter": 10
+            "chapter": 10,
+            "page": 11
           }
         },
         {
@@ -5916,7 +6208,8 @@
           "glossary": "Suizidprävention",
           "source": {
             "doc": "suizid",
-            "chapter": 11
+            "chapter": 11,
+            "page": 12
           }
         },
         {
@@ -5936,7 +6229,8 @@
           "glossary": "Suizidprävention",
           "source": {
             "doc": "suizid",
-            "chapter": 11
+            "chapter": 11,
+            "page": 12
           }
         },
         {
@@ -5955,7 +6249,8 @@
           "explanation": "Der 10. Oktober ist der Welttag der psychischen Gesundheit.",
           "source": {
             "doc": "suizid",
-            "chapter": 11
+            "chapter": 11,
+            "page": 12
           }
         },
         {
@@ -5974,7 +6269,8 @@
           "explanation": "Kostenfrei, anonym, rund um die Uhr; außerdem 116 123. Bei akuter Gefahr 112.",
           "source": {
             "doc": "suizid",
-            "chapter": 11
+            "chapter": 11,
+            "page": 13
           }
         },
         {
@@ -5994,7 +6290,8 @@
           "glossary": "Freiheitsbeschränkung",
           "source": {
             "doc": "recht",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -6014,7 +6311,8 @@
           "glossary": "Freiheitsentziehung",
           "source": {
             "doc": "recht",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -6034,7 +6332,8 @@
           "glossary": "Freiheitsentziehung",
           "source": {
             "doc": "recht",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -6054,7 +6353,8 @@
           "glossary": "Verhältnismäßigkeit",
           "source": {
             "doc": "recht",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -6073,7 +6373,8 @@
           "explanation": "Art. 104 GG. Vorläufige Maßnahmen im Notfall sind befristet.",
           "source": {
             "doc": "recht",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -6092,7 +6393,8 @@
           "explanation": "Übungsfrage 18.",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -6112,7 +6414,8 @@
           "glossary": "Betreuung",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -6132,7 +6435,8 @@
           "glossary": "Betreuung",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -6152,7 +6456,8 @@
           "glossary": "Forensik",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -6172,7 +6477,8 @@
           "glossary": "PsychKG",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -6192,7 +6498,8 @@
           "glossary": "PsychKG",
           "source": {
             "doc": "recht",
-            "chapter": 3
+            "chapter": 3,
+            "page": 4
           }
         },
         {
@@ -6212,7 +6519,8 @@
           "glossary": "PsychKG",
           "source": {
             "doc": "recht",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -6232,7 +6540,8 @@
           "glossary": "Verhältnismäßigkeit",
           "source": {
             "doc": "recht",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -6252,7 +6561,8 @@
           "glossary": "Sozialpsychiatrischer Dienst",
           "source": {
             "doc": "recht",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -6272,7 +6582,8 @@
           "glossary": "Sozialpsychiatrischer Dienst",
           "source": {
             "doc": "recht",
-            "chapter": 3
+            "chapter": 3,
+            "page": 4
           }
         },
         {
@@ -6291,7 +6602,8 @@
           "explanation": "Wohnortnah – keine Einrichtung mehr außerhalb der Stadtgrenze.",
           "source": {
             "doc": "recht",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -6310,7 +6622,8 @@
           "explanation": "Außerdem prüfen Besuchskommissionen die Einrichtungen.",
           "source": {
             "doc": "recht",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -6330,7 +6643,8 @@
           "glossary": "PsychKG",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 5
           }
         },
         {
@@ -6349,7 +6663,8 @@
           "explanation": "§ 16 PsychKG.",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 5
           }
         },
         {
@@ -6369,7 +6684,8 @@
           "glossary": "Sozialpsychiatrischer Dienst",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -6389,7 +6705,8 @@
           "glossary": "Vorläufige Unterbringung",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -6409,7 +6726,8 @@
           "glossary": "Vorläufige Unterbringung",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -6429,7 +6747,8 @@
           "glossary": "Amtsgericht",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -6449,7 +6768,8 @@
           "glossary": "Sozialpsychiatrischer Dienst",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -6468,7 +6788,8 @@
           "explanation": "Ende, sobald keine Gefahr mehr besteht.",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -6487,7 +6808,8 @@
           "explanation": "Rechenbeispiel der Folie – praktischer am 11.11. nach dem Frühstück.",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -6506,7 +6828,8 @@
           "explanation": "Außerdem Fachpersonal, anerkannte Behandlung, Trennung Kinder/Erwachsene.",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -6525,7 +6848,8 @@
           "explanation": "Bei Freiwilligkeitserklärung ist kein Beschluss zulässig.",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -6545,7 +6869,8 @@
           "glossary": "Einwilligungsfähigkeit",
           "source": {
             "doc": "recht",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -6565,7 +6890,8 @@
           "glossary": "Betreuung",
           "source": {
             "doc": "recht",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -6585,7 +6911,8 @@
           "glossary": "Mutmaßlicher Wille",
           "source": {
             "doc": "recht",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -6605,7 +6932,8 @@
           "glossary": "Zwangsbehandlung",
           "source": {
             "doc": "recht",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -6625,7 +6953,8 @@
           "glossary": "Besondere Sicherungsmaßnahmen",
           "source": {
             "doc": "recht",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -6645,7 +6974,8 @@
           "glossary": "Besondere Sicherungsmaßnahmen",
           "source": {
             "doc": "recht",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -6665,7 +6995,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -6685,7 +7016,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -6705,7 +7037,8 @@
           "glossary": "Medikamentöse Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           },
           "extraCategories": [
             "medikamente"
@@ -6728,7 +7061,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -6748,7 +7082,8 @@
           "glossary": "Freiheitsbeschränkung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -6767,7 +7102,8 @@
           "explanation": "Sonst geht es um das Wohl der Person selbst.",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -6787,7 +7123,8 @@
           "glossary": "Betreuung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -6807,7 +7144,8 @@
           "glossary": "Freiheitsentziehung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -6826,7 +7164,8 @@
           "explanation": "§ 1631b BGB.",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -6846,7 +7185,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -6866,7 +7206,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -6885,7 +7226,8 @@
           "explanation": "Weitere: Hüftprotektoren, geteilte Seitenteile, Licht.",
           "source": {
             "doc": "recht",
-            "chapter": 8
+            "chapter": 8,
+            "page": 11
           }
         },
         {
@@ -6905,7 +7247,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -6925,7 +7268,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -6944,7 +7288,8 @@
           "explanation": "Z. B. Infekt, Schmerzen, Harndrang, Delir.",
           "source": {
             "doc": "recht",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -6964,7 +7309,8 @@
           "glossary": "Betreuung",
           "source": {
             "doc": "recht",
-            "chapter": 9
+            "chapter": 9,
+            "page": 11
           }
         },
         {
@@ -6984,7 +7330,8 @@
           "glossary": "Patientenverfügung",
           "source": {
             "doc": "recht",
-            "chapter": 9
+            "chapter": 9,
+            "page": 11
           }
         },
         {
@@ -7004,7 +7351,8 @@
           "glossary": "Vorsorgevollmacht",
           "source": {
             "doc": "recht",
-            "chapter": 9
+            "chapter": 9,
+            "page": 11
           }
         },
         {
@@ -7023,7 +7371,8 @@
           "explanation": "Betreuungsrechtsreform 1.1.2023.",
           "source": {
             "doc": "recht",
-            "chapter": 9
+            "chapter": 9,
+            "page": 11
           }
         },
         {
@@ -7043,7 +7392,8 @@
           "glossary": "Unterlassene Hilfeleistung",
           "source": {
             "doc": "recht",
-            "chapter": 10
+            "chapter": 10,
+            "page": 12
           }
         },
         {
@@ -7063,7 +7413,8 @@
           "glossary": "Unterlassene Hilfeleistung",
           "source": {
             "doc": "recht",
-            "chapter": 10
+            "chapter": 10,
+            "page": 12
           }
         },
         {
@@ -7083,7 +7434,8 @@
           "glossary": "Antisuizidpakt",
           "source": {
             "doc": "recht",
-            "chapter": 10
+            "chapter": 10,
+            "page": 11
           }
         },
         {
@@ -7102,7 +7454,8 @@
           "explanation": "Informationen im Behandlungsteam sind nötig und erlaubt.",
           "source": {
             "doc": "recht",
-            "chapter": 10
+            "chapter": 10,
+            "page": 12
           }
         },
         {
@@ -7122,7 +7475,8 @@
           "glossary": "Forensik",
           "source": {
             "doc": "recht",
-            "chapter": 11
+            "chapter": 11,
+            "page": 12
           }
         },
         {
@@ -7145,7 +7499,8 @@
           "glossary": "Antidepressivum",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -7168,7 +7523,8 @@
           "glossary": "SSRI",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -7191,7 +7547,8 @@
           "glossary": "SSNRI",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -7214,7 +7571,8 @@
           "glossary": "Trizyklische Antidepressiva",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -7237,7 +7595,8 @@
           "glossary": "Trizyklische Antidepressiva",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -7260,7 +7619,8 @@
           "glossary": "Trizyklische Antidepressiva",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -7283,7 +7643,8 @@
           "glossary": "Mirtazapin",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -7306,7 +7667,8 @@
           "glossary": "MAO-Hemmer",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -7329,7 +7691,8 @@
           "glossary": "Johanniskraut",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           }
         },
         {
@@ -7352,7 +7715,8 @@
           "glossary": "Johanniskraut",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           }
         },
         {
@@ -7375,7 +7739,8 @@
           "glossary": "Johanniskraut",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           }
         },
         {
@@ -7398,7 +7763,8 @@
           "glossary": "Adhärenz",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           }
         },
         {
@@ -7420,7 +7786,8 @@
           "explanation": "Neben Antidepressiva ggf. Antipsychotika und Benzodiazepine zur Beruhigung – Wirklatenz beachten.",
           "source": {
             "doc": "suizid",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -7443,7 +7810,8 @@
           "glossary": "Medikamentöse Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         }
       ]
@@ -10482,7 +10850,8 @@
           "merke": "Topografische Einteilung = nach Lage.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -10513,7 +10882,8 @@
           "merke": "Mehrere Dendriten, aber nur 1 Axon.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -10545,7 +10915,8 @@
           "merke": "„Schwann schwimmt draußen“.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -10576,7 +10947,8 @@
           "merke": "Mikroglia = Abwehr, Ependym = Auskleidung.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -10611,7 +10983,8 @@
           "merke": "Endo – Peri – Epi von innen nach außen.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 7
           }
         },
         {
@@ -10644,7 +11017,8 @@
           "merke": "Bis zu 100 Lagen um das Axon.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -10681,7 +11055,8 @@
           "merke": "Alles-oder-nichts-Prinzip.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -10715,7 +11090,8 @@
           "merke": "Na⁺ rein, K⁺ raus.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -10746,7 +11122,8 @@
           "merke": "Saltare = springen.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 9
           }
         },
         {
@@ -10785,7 +11162,8 @@
           "merke": "Elektrisch → chemisch → elektrisch.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -10816,7 +11194,8 @@
           "merke": "GABA = Gamma-Aminobuttersäure.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -10848,7 +11227,8 @@
           "merke": "SSNRI hemmen Serotonin und Noradrenalin.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 11
           },
           "extraCategories": [
             "medikamente"
@@ -10884,7 +11264,8 @@
           "merke": "Vor der Zentralfurche: motorisch.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 13
           }
         },
         {
@@ -10915,7 +11296,8 @@
           "merke": "prae = vor, post = hinter der Zentralfurche.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -10945,7 +11327,8 @@
           "merke": "Motorische vs. sensorische Aphasie.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -10976,7 +11359,8 @@
           "merke": "Thalamus = „Tor zum Bewusstsein“.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -11010,7 +11394,8 @@
           "merke": "Am verlängerten Mark entspringen die Hirnnerven IX–XII.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 16
           }
         },
         {
@@ -11044,7 +11429,8 @@
           "merke": "Deshalb Lumbalpunktion bei L4/L5.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 16
           }
         },
         {
@@ -11075,7 +11461,8 @@
           "merke": "Seitenhorn = autonom, nur C8–L1.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -11108,7 +11495,8 @@
           "merke": "Linke Hirnhälfte → rechte Körperseite.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 18
           }
         },
         {
@@ -11140,7 +11528,8 @@
           "merke": "Weiche Hirnhaut = Arachnoidea + Pia.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 19
           }
         },
         {
@@ -11173,7 +11562,8 @@
           "merke": "Austausch etwa alle 7 Stunden.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 21
           }
         },
         {
@@ -11204,7 +11594,8 @@
           "merke": "Gefäßring = Circulus arteriosus cerebri.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -11237,7 +11628,8 @@
           "merke": "Fettsäuren passieren die Blut-Hirn-Schranke nicht.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 23
           }
         },
         {
@@ -11269,7 +11661,8 @@
           "merke": "Depression: Stimmung gedrückt, Antrieb vermindert.",
           "source": {
             "doc": "depression",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -11301,7 +11694,8 @@
           "merke": "NVL: Lebenszeitprävalenz 16–20 %.",
           "source": {
             "doc": "depression",
-            "chapter": 3
+            "chapter": 3,
+            "page": 4
           }
         },
         {
@@ -11333,7 +11727,8 @@
           "merke": "Vulnerabilität allein macht nicht krank.",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -11364,7 +11759,8 @@
           "merke": "Antidepressiva erhöhen v. a. Serotonin und Noradrenalin.",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -11395,7 +11791,8 @@
           "merke": "Termine eher später am Tag planen.",
           "source": {
             "doc": "depression",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -11435,7 +11832,8 @@
           "merke": "Leicht 4–5, mittel 6–7, schwer ≥ 8 Symptome.",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -11466,7 +11864,8 @@
           "merke": "Eine Fachperson füllt sie aus.",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -11498,7 +11897,8 @@
           "merke": "Darauf kann eine „double depression“ folgen.",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -11529,7 +11929,8 @@
           "merke": "Beides erhöht die Transmitterkonzentration im Spalt.",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -11563,7 +11964,8 @@
           "merke": "Medikamente dürfen nicht gesammelt werden.",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -11600,7 +12002,8 @@
           "merke": "Außerdem phototoxisch.",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -11635,7 +12038,8 @@
           "merke": "Mind. 2 500, besser 10 000 Lux, 50–80 cm Abstand.",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -11668,7 +12072,8 @@
           "merke": "Einsatz bei schwerer, therapieresistenter Depression.",
           "source": {
             "doc": "depression",
-            "chapter": 10
+            "chapter": 10,
+            "page": 14
           }
         },
         {
@@ -11699,7 +12104,8 @@
           "merke": "Eustress belebt, Disstress belastet.",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 4
           }
         },
         {
@@ -11732,7 +12138,8 @@
           "merke": "Danach braucht der Körper Erholung.",
           "source": {
             "doc": "burnout",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -11763,7 +12170,8 @@
           "merke": "Danach folgen Coping und Neubewertung.",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -11795,7 +12203,8 @@
           "merke": "Flexibel einsetzen ist entscheidend.",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -11827,7 +12236,8 @@
           "merke": "Folge lang anhaltender Stressbelastung.",
           "source": {
             "doc": "burnout",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -11859,7 +12269,8 @@
           "merke": "Phase 12 ist ein absoluter Notfall.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 9
           }
         },
         {
@@ -11891,7 +12302,8 @@
           "merke": "Volle Ausprägung: Erschöpfungsdepression.",
           "source": {
             "doc": "burnout",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -11924,7 +12336,8 @@
           "merke": "Auswege: Neinsagen lernen.",
           "source": {
             "doc": "burnout",
-            "chapter": 7
+            "chapter": 7,
+            "page": 11
           }
         },
         {
@@ -11956,7 +12369,8 @@
           "merke": "Muss regelmäßig geübt werden.",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -11987,7 +12401,8 @@
           "merke": "Z. B. lebenswichtige Medikamente nicht nehmen.",
           "source": {
             "doc": "suizid",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -12022,7 +12437,8 @@
           "merke": "Suizidversuche sind bei Frauen häufiger.",
           "source": {
             "doc": "suizid",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -12053,7 +12469,8 @@
           "merke": "Nach Pöldinger.",
           "source": {
             "doc": "suizid",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -12084,7 +12501,8 @@
           "merke": "Immer nachfragen und Team informieren.",
           "source": {
             "doc": "suizid",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -12117,7 +12535,8 @@
           "merke": "Entdramatisieren, aber nicht bagatellisieren.",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -12149,7 +12568,8 @@
           "merke": "Voraussetzung: tragfähige Beziehung.",
           "source": {
             "doc": "suizid",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -12181,7 +12601,8 @@
           "merke": "Beispiel Robert Enke 2009.",
           "source": {
             "doc": "suizid",
-            "chapter": 10
+            "chapter": 10,
+            "page": 11
           }
         },
         {
@@ -12212,7 +12633,8 @@
           "merke": "Bevölkerung – Risikogruppen – Einzelne.",
           "source": {
             "doc": "suizid",
-            "chapter": 11
+            "chapter": 11,
+            "page": 12
           }
         },
         {
@@ -12243,7 +12665,8 @@
           "merke": "Folie: § 1906 Abs. 4 BGB, heute § 1831.",
           "source": {
             "doc": "recht",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -12274,7 +12697,8 @@
           "merke": "Übungsfrage 18.",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -12305,7 +12729,8 @@
           "merke": "Entscheiden tut das Amtsgericht.",
           "source": {
             "doc": "recht",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -12337,7 +12762,8 @@
           "merke": "Folie: 24 Stunden.",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -12369,7 +12795,8 @@
           "merke": "BVerfG 2018.",
           "source": {
             "doc": "recht",
-            "chapter": 6
+            "chapter": 6,
+            "page": 9
           }
         },
         {
@@ -12400,7 +12827,8 @@
           "merke": "Übungsfrage 19.",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -12431,7 +12859,8 @@
           "merke": "Nie zur Arbeitserleichterung.",
           "source": {
             "doc": "recht",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -12471,7 +12900,8 @@
           ],
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -12507,7 +12937,8 @@
           "merke": "Tranylcypromin ist ein MAO-Hemmer.",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           }
         },
         {
@@ -12540,7 +12971,8 @@
           ],
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           }
         },
         {
@@ -12575,7 +13007,8 @@
           ],
           "source": {
             "doc": "suizid",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -12608,7 +13041,8 @@
           ],
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         }
       ]
@@ -12639,7 +13073,8 @@
           "glossary": "Dendrit",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -12666,7 +13101,8 @@
           "glossary": "Perikaryon",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -12693,7 +13129,8 @@
           "glossary": "Markscheide",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -12720,7 +13157,8 @@
           "glossary": "Ranvier-Schnürring",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 7
           }
         },
         {
@@ -12747,7 +13185,8 @@
           "glossary": "Axonkollaterale",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -12774,7 +13213,8 @@
           "glossary": "Endkolben",
           "source": {
             "doc": "nervensystem",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -12801,7 +13241,8 @@
           "glossary": "Epineurium",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 7
           }
         },
         {
@@ -12828,7 +13269,8 @@
           "glossary": "Perineurium",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -12855,7 +13297,8 @@
           "glossary": "Endoneurium",
           "source": {
             "doc": "nervensystem",
-            "chapter": 3
+            "chapter": 3,
+            "page": 6
           }
         },
         {
@@ -12882,7 +13325,8 @@
           "glossary": "Ruhemembranpotenzial",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -12909,7 +13353,8 @@
           "glossary": "Aktionspotenzial",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -12936,7 +13381,8 @@
           "glossary": "Depolarisation",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -12963,7 +13409,8 @@
           "glossary": "Repolarisation",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 8
           }
         },
         {
@@ -12990,7 +13437,8 @@
           "glossary": "Refraktärzeit",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 7
           }
         },
         {
@@ -13017,7 +13465,8 @@
           "glossary": "Saltatorische Erregungsleitung",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 9
           }
         },
         {
@@ -13043,7 +13492,8 @@
           "explanation": "Die Membran depolarisiert Stück für Stück, max. 2 m/s.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 4
+            "chapter": 4,
+            "page": 9
           }
         },
         {
@@ -13070,7 +13520,8 @@
           "glossary": "Vesikel",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -13097,7 +13548,8 @@
           "glossary": "Synaptischer Spalt",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -13124,7 +13576,8 @@
           "glossary": "Rezeptor",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -13151,7 +13604,8 @@
           "glossary": "SSRI",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 11
           }
         },
         {
@@ -13178,7 +13632,8 @@
           "glossary": "Synapse",
           "source": {
             "doc": "nervensystem",
-            "chapter": 5
+            "chapter": 5,
+            "page": 10
           }
         },
         {
@@ -13205,7 +13660,8 @@
           "glossary": "Corpus callosum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 12
           }
         },
         {
@@ -13232,7 +13688,8 @@
           "glossary": "Diencephalon",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 14
           }
         },
         {
@@ -13259,7 +13716,8 @@
           "glossary": "Hypophyse",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -13286,7 +13744,8 @@
           "glossary": "Mesencephalon",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -13313,7 +13772,8 @@
           "glossary": "Pons",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -13340,7 +13800,8 @@
           "glossary": "Medulla oblongata",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -13367,7 +13828,8 @@
           "glossary": "Cerebellum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 7
+            "chapter": 7,
+            "page": 15
           }
         },
         {
@@ -13393,7 +13855,8 @@
           "explanation": "Vor der Zentralfurche; enthält motorische Rinde und Broca-Zentrum.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -13419,7 +13882,8 @@
           "explanation": "Hinter der Zentralfurche; sensibles Rindenfeld.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 13
           }
         },
         {
@@ -13445,7 +13909,8 @@
           "explanation": "Unterhalb der Lateralfurche; Hörzentrum, Wernicke, Hippocampus.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 13
           }
         },
         {
@@ -13471,7 +13936,8 @@
           "explanation": "Enthält das Sehzentrum.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 13
           }
         },
         {
@@ -13498,7 +13964,8 @@
           "glossary": "Gyrus praecentralis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -13525,7 +13992,8 @@
           "glossary": "Gyrus postcentralis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -13552,7 +14020,8 @@
           "glossary": "Broca-Zentrum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -13579,7 +14048,8 @@
           "glossary": "Wernicke-Zentrum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 14
           }
         },
         {
@@ -13605,7 +14075,8 @@
           "explanation": "Liegt im Hinterhauptslappen.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 6
+            "chapter": 6,
+            "page": 13
           }
         },
         {
@@ -13631,7 +14102,8 @@
           "explanation": "Schmaler, nach hinten weisender „Flügel“.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -13658,7 +14130,8 @@
           "glossary": "Motoneuron",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -13684,7 +14157,8 @@
           "explanation": "Nur zwischen C8 und L1 ausgebildet.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -13711,7 +14185,8 @@
           "glossary": "Spinalganglion",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -13737,7 +14212,8 @@
           "explanation": "Efferente Fasern verlassen hier das Rückenmark.",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -13764,7 +14240,8 @@
           "glossary": "Zentralkanal",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 17
           }
         },
         {
@@ -13791,7 +14268,8 @@
           "glossary": "Dura mater",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 19
           }
         },
         {
@@ -13818,7 +14296,8 @@
           "glossary": "Arachnoidea",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 19
           }
         },
         {
@@ -13845,7 +14324,8 @@
           "glossary": "Subarachnoidalraum",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -13872,7 +14352,8 @@
           "glossary": "Pia mater",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 19
           }
         },
         {
@@ -13899,7 +14380,8 @@
           "glossary": "Circulus arteriosus cerebri",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -13926,7 +14408,8 @@
           "glossary": "Circulus arteriosus cerebri",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -13953,7 +14436,8 @@
           "glossary": "Circulus arteriosus cerebri",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -13980,7 +14464,8 @@
           "glossary": "Circulus arteriosus cerebri",
           "source": {
             "doc": "nervensystem",
-            "chapter": 10
+            "chapter": 10,
+            "page": 22
           }
         },
         {
@@ -14007,7 +14492,8 @@
           "glossary": "Plexus choroideus",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -14034,7 +14520,8 @@
           "glossary": "Ventrikel",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -14061,7 +14548,8 @@
           "glossary": "Arachnoidea",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 20
           }
         },
         {
@@ -14088,7 +14576,8 @@
           "glossary": "Medulla spinalis",
           "source": {
             "doc": "nervensystem",
-            "chapter": 8
+            "chapter": 8,
+            "page": 16
           }
         },
         {
@@ -14115,7 +14604,8 @@
           "glossary": "Lumbalpunktion",
           "source": {
             "doc": "nervensystem",
-            "chapter": 9
+            "chapter": 9,
+            "page": 19
           }
         },
         {
@@ -14142,7 +14632,8 @@
           "glossary": "Remission",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -14169,7 +14660,8 @@
           "glossary": "Remission",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -14196,7 +14688,8 @@
           "glossary": "Rezidiv",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -14223,7 +14716,8 @@
           "glossary": "Dysthymie",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -14250,7 +14744,8 @@
           "glossary": "Double Depression",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -14276,7 +14771,8 @@
           "explanation": "Die Episode bessert sich über 2 Jahre nicht.",
           "source": {
             "doc": "depression",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -14303,7 +14799,8 @@
           "glossary": "Wirklatenz",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -14333,7 +14830,8 @@
           "glossary": "Wirklatenz",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -14363,7 +14861,8 @@
           "glossary": "Wirklatenz",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 13
           },
           "extraCategories": [
             "medikamente"
@@ -14393,7 +14892,8 @@
           "glossary": "Vulnerabilitäts-Stress-Modell",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -14420,7 +14920,8 @@
           "glossary": "Vulnerabilität",
           "source": {
             "doc": "depression",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -14446,7 +14947,8 @@
           "explanation": "Depression zeigt sich auch körperlich.",
           "source": {
             "doc": "depression",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -14472,7 +14974,8 @@
           "explanation": "Grübeln, Selbstvorwürfe, Konzentrationsprobleme.",
           "source": {
             "doc": "depression",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -14498,7 +15001,8 @@
           "explanation": "Alle 3 Hauptsymptome, mindestens 8 Symptome.",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -14524,7 +15028,8 @@
           "explanation": "Mindestens 2 Haupt-, insgesamt 4–5 Symptome.",
           "source": {
             "doc": "depression",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -14551,7 +15056,8 @@
           "glossary": "SSRI",
           "source": {
             "doc": "depression",
-            "chapter": 9
+            "chapter": 9,
+            "page": 12
           },
           "extraCategories": [
             "medikamente"
@@ -14581,7 +15087,8 @@
           "glossary": "Primäre Bewertung",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -14608,7 +15115,8 @@
           "glossary": "Sekundäre Bewertung",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -14635,7 +15143,8 @@
           "glossary": "Coping",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 5
           }
         },
         {
@@ -14662,7 +15171,8 @@
           "glossary": "Transaktionales Stressmodell",
           "source": {
             "doc": "burnout",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -14689,7 +15199,8 @@
           "glossary": "Eisenhower-Methode",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -14716,7 +15227,8 @@
           "glossary": "Eisenhower-Methode",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -14743,7 +15255,8 @@
           "glossary": "Eisenhower-Methode",
           "source": {
             "doc": "burnout",
-            "chapter": 8
+            "chapter": 8,
+            "page": 12
           }
         },
         {
@@ -14769,7 +15282,8 @@
           "explanation": "Phase 1 – große Ziele und Enthusiasmus.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -14795,7 +15309,8 @@
           "explanation": "Phase 6.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 7
           }
         },
         {
@@ -14822,7 +15337,8 @@
           "glossary": "Depersonalisierung",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -14848,7 +15364,8 @@
           "explanation": "Stark erhöhte Suizidalität.",
           "source": {
             "doc": "burnout",
-            "chapter": 5
+            "chapter": 5,
+            "page": 8
           }
         },
         {
@@ -14875,7 +15392,8 @@
           "glossary": "Helfersyndrom",
           "source": {
             "doc": "burnout",
-            "chapter": 7
+            "chapter": 7,
+            "page": 10
           }
         },
         {
@@ -14901,7 +15419,8 @@
           "explanation": "Rückzug, selektive Wahrnehmung von Suiziden.",
           "source": {
             "doc": "suizid",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -14928,7 +15447,8 @@
           "glossary": "Ambivalenz",
           "source": {
             "doc": "suizid",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -14955,7 +15475,8 @@
           "glossary": "Ruhe vor dem Sturm",
           "source": {
             "doc": "suizid",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -14982,7 +15503,8 @@
           "glossary": "Suizidalität",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 7
           }
         },
         {
@@ -15009,7 +15531,8 @@
           "glossary": "Suizidalität",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 7
           }
         },
         {
@@ -15036,7 +15559,8 @@
           "glossary": "Suizidalität",
           "source": {
             "doc": "suizid",
-            "chapter": 6
+            "chapter": 6,
+            "page": 7
           }
         },
         {
@@ -15062,7 +15586,8 @@
           "explanation": "Z. B. frühere Suizidversuche, Hoffnungslosigkeit, Isolation.",
           "source": {
             "doc": "suizid",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -15088,7 +15613,8 @@
           "explanation": "Z. B. soziale Unterstützung, Gründe zu leben.",
           "source": {
             "doc": "suizid",
-            "chapter": 3
+            "chapter": 3,
+            "page": 5
           }
         },
         {
@@ -15115,7 +15641,8 @@
           "glossary": "Suizidprävention",
           "source": {
             "doc": "suizid",
-            "chapter": 11
+            "chapter": 11,
+            "page": 12
           }
         },
         {
@@ -15142,7 +15669,8 @@
           "glossary": "Suizidprävention",
           "source": {
             "doc": "suizid",
-            "chapter": 11
+            "chapter": 11,
+            "page": 13
           }
         },
         {
@@ -15169,7 +15697,8 @@
           "glossary": "Suizidprävention",
           "source": {
             "doc": "suizid",
-            "chapter": 11
+            "chapter": 11,
+            "page": 12
           }
         },
         {
@@ -15196,7 +15725,8 @@
           "glossary": "Notfallplan",
           "source": {
             "doc": "suizid",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -15223,7 +15753,8 @@
           "glossary": "Notfallplan",
           "source": {
             "doc": "suizid",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -15250,7 +15781,8 @@
           "glossary": "Notfallplan",
           "source": {
             "doc": "suizid",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -15277,7 +15809,8 @@
           "glossary": "Betreuung",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -15304,7 +15837,8 @@
           "glossary": "PsychKG",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -15331,7 +15865,8 @@
           "glossary": "Forensik",
           "source": {
             "doc": "recht",
-            "chapter": 2
+            "chapter": 2,
+            "page": 4
           }
         },
         {
@@ -15358,7 +15893,8 @@
           "glossary": "Vorläufige Unterbringung",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -15385,7 +15921,8 @@
           "glossary": "Sozialpsychiatrischer Dienst",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -15412,7 +15949,8 @@
           "glossary": "Amtsgericht",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -15438,7 +15976,8 @@
           "explanation": "Ende, sobald keine Gefahr mehr besteht.",
           "source": {
             "doc": "recht",
-            "chapter": 4
+            "chapter": 4,
+            "page": 6
           }
         },
         {
@@ -15465,7 +16004,8 @@
           "glossary": "Freiheitsentziehung",
           "source": {
             "doc": "recht",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -15492,7 +16032,8 @@
           "glossary": "Freiheitsentziehung",
           "source": {
             "doc": "recht",
-            "chapter": 1
+            "chapter": 1,
+            "page": 3
           }
         },
         {
@@ -15519,7 +16060,8 @@
           "glossary": "Betreuung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -15546,7 +16088,8 @@
           "glossary": "Betreuung",
           "source": {
             "doc": "recht",
-            "chapter": 7
+            "chapter": 7,
+            "page": 9
           }
         },
         {
@@ -15573,7 +16116,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -15600,7 +16144,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 8
+            "chapter": 8,
+            "page": 10
           }
         },
         {
@@ -15627,7 +16172,8 @@
           "glossary": "Isolierung",
           "source": {
             "doc": "recht",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         },
         {
@@ -15654,7 +16200,8 @@
           "glossary": "Fixierung",
           "source": {
             "doc": "recht",
-            "chapter": 6
+            "chapter": 6,
+            "page": 8
           }
         }
       ]

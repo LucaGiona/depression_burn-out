@@ -14,9 +14,12 @@ export function createLearnLinks(item, links) {
 
     const doc = item.source ? links.getDocument(item.source.doc) : null;
     if (doc) {
-        const chapter = item.source.chapter ? `, Kapitel ${item.source.chapter}` : "";
-        const anchor = createElement("a", "learn-link learn-link--doc", `Nachlesen: ${doc.title}${chapter}`);
-        anchor.href = doc.file;
+        const { chapter, page } = item.source;
+        const where = [chapter && `Kapitel ${chapter}`, page && `S. ${page}`].filter(Boolean).join(", ");
+        const label = `Nachlesen: ${doc.title}${where ? ` (${where})` : ""}`;
+        const anchor = createElement("a", "learn-link learn-link--doc", label);
+        // #page=N: Der PDF-Viewer des Browsers öffnet direkt die Seite mit der Antwort.
+        anchor.href = page ? `${doc.file}#page=${page}` : doc.file;
         anchor.target = "_blank";
         anchor.rel = "noopener";
         box.append(anchor);

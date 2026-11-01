@@ -96,3 +96,18 @@ Auf schmalen Fenstern (≤ 1060 px) schwebt er unten links. Bei normalem Tab-Wec
 - `js/dom.js`: `backToQuiz`
 - `js/main.js`: `returnPoint`, `setReturnPoint`, `initBackToQuiz`, `openGlossary` merkt sich den Modus
 - `css/styles.css`: Abschnitt `.back-float` am Ende
+
+### Lernheft-Link springt auf die richtige Seite (01.11.2026)
+
+Jedes Item mit `source` hat jetzt zusätzlich **`source.page`** – die Lernheft-Seite, auf der die
+Antwort steht. Der Link „Nachlesen“ öffnet das PDF mit `#page=N` direkt dort und zeigt
+„(Kapitel X, S. N)“ an.
+
+- `tools/seitenzahlen.py` berechnet die Seiten (sucht Antwort-/Erklärungswörter innerhalb des
+  Kapitels). **Nach neuen Fragen erneut ausführen:** `python3 tools/seitenzahlen.py`
+- `js/learn-links.js` baut den Link mit `#page=`.
+- `#page=` funktioniert in Chrome, Edge, Firefox und Safari. Auf eine einzelne Zeile springen
+  kann der eingebaute PDF-Viewer nicht.
+- Stand vorher: `data/depression.vor-seitenzahlen.json.bak`.
+
+Übertragen: `tools/seitenzahlen.py` (Datenpfad anpassen) und `js/learn-links.js` kopieren.
